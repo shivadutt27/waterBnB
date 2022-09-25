@@ -1,0 +1,5 @@
+package com.dutTech.waterBnB.models;
+
+public class User {
+
+}
